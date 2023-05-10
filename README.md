@@ -82,7 +82,7 @@ git clone https://github.com/DebyGrey/awesome-books-website
 
 To install this project run this into your terminal:
 
-+ git clone https://github.com/DebyGrey/awesome-books-website
++ git clone [https://github.com/God-Logic/AwesomeBooks]
 
 
 ### Usage
