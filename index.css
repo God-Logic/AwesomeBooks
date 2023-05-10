@@ -15,7 +15,8 @@ header {
   justify-content: space-between;
   align-items: center;
 }
-.date-time-container{
+
+.date-time-container {
   padding: 0 5%;
 }
 
@@ -64,8 +65,7 @@ header {
 
 .book-list-container,
 .add-new-book-container,
-.contact-container h1,
-.contact-container p {
+.contact-container h1 {
   text-align: center;
 }
 
@@ -157,6 +157,10 @@ footer p {
   align-items: center;
   width: 70%;
   font-size: 14px;
+}
+
+.contact-container p {
+  text-align: center;
 }
 
 @media screen and (min-width: 375px) {
