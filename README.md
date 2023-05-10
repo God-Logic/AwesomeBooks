@@ -82,7 +82,7 @@ git clone https://github.com/DebyGrey/awesome-books-website
 
 To install this project run this into your terminal:
 
-+ git clone [https://github.com/God-Logic/AwesomeBooks]
++ git clone []
 
 
 ### Usage
@@ -168,6 +168,6 @@ I would like to thank everyone who made this project possible
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](LICENSE.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
